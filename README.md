@@ -13,7 +13,6 @@ chmod 775 joomlafullbackup.sh
 
 -$ ./joomlafullbackup.sh
 
-baixe aqui o script http://www.ambientelivre.com.br/downloads/doc_details/66-joomla-full-backup.html
+baixe aqui o script https://github.com/ambientelivre/joomla-full-backup
 
-
-Caso você tenha alterado o script nos encaminhe e colocamos sua alteração na próxima versão.
+Caso você tenha alterado o script nos encaminhe um Pull Request da sua alteração na próxima versão.
