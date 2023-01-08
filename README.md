@@ -7,11 +7,11 @@ Para utilizar o mesmo basta baixar o arquivo e alterar as primeiras linhas que s
 
 ### conceda permissão de execução para o arquivo com o comando abaixo:
 
-chmod 775 joomlafullbackup.sh
+  chmod 775 joomlafullbackup.sh
 
 ### Execute o script com :
 
--$ ./joomlafullbackup.sh
+  ./joomlafullbackup.sh
 
 baixe aqui o script https://github.com/ambientelivre/joomla-full-backup
 
