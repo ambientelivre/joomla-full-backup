@@ -4,7 +4,7 @@
 #
 # version 1.0
 #
-# Copyright (C) 2011 Ambiente Livre Tecnologia 
+# Copyright (C) 2011 Ambiente Livre
 # Marcio Junior Vieira - < marcio <%> ambientelivre.com.br > 
 #
 # All rights reserved.
@@ -15,7 +15,7 @@
 # other free or open source software licenses.
 # http://www.ambientelivre.com.br
 #
-# Help and Support in http://www.ambientelivre.com.br/joomla-full-backup.html
+# Help and Support in http://www.ambientelivre.com.br
 
 #*********************************************************************#
 # Variables to Config JoomlaFullBackup, alter for your data
@@ -23,7 +23,7 @@ DIRBACKUP=/home/marcio/teste
 DIRJOOMLA=/var/www/ambientelivre
 MYSQLUSER=root
 MYSQLHOST=localhost
-MYSQLPASSWORD=123456 
+MYSQLPASSWORD=123456
 MYSQLDATABASE=cdf
 #*********************************************************************#
 
@@ -40,5 +40,3 @@ tar -zcvf $DIRBACKUP/backupfulljoomla-"$DATE".tar.gz $DIRJOOMLA $DIRBACKUP/base_
 
 # remove the sql backup file
 rm $DIRBACKUP/base_$MYSQLDATABASE-$DATE.sql
-
- 
