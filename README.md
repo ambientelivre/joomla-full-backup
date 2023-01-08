@@ -16,3 +16,5 @@ Para utilizar o mesmo basta baixar o arquivo e alterar as primeiras linhas que s
 baixe aqui o script https://github.com/ambientelivre/joomla-full-backup
 
 Caso você tenha alterado o script nos encaminhe um Pull Request da sua alteração na próxima versão.
+
+Se precisar de suporte entre em contato conosco: https://www.ambientelivre.com.br
